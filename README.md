@@ -2,7 +2,7 @@
 There’s a ton of information floating around about the ‘perfect landing page,’ but don’t forget about your website’s most important page -- the pricing page! Design can boost your pricing strategy by a few visual tricks and simple CSS. And while this tutorial isn’t a one-size-fits-all solution, it can definitely help boost your click through rate and (hopefully) your bottom line!
   		  
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Design Pricing Boxes that Get People to Click](https://www.solodev.com/blog/how-to-design-pricing-boxes-that-get-people-to-click-.stmll) article.
+For detailed instruction's, view Solodev's [How to Design Pricing Boxes that Get People to Click](https://www.solodev.com/blog/how-to-design-pricing-boxes-that-get-people-to-click-.stml) article.
  
 ## Demo
   		  
