@@ -13,7 +13,7 @@ Try out a working example on [JSFiddle](https://jsfiddle.net/solodev/ampzuxmf/).
 The tutorial contains the following basic HTML markup.
 
 ```
-    <section class="pricing text-center mx-4 my-5">
+<section class="pricing text-center mx-4 my-5">
     <div class="pricing-container d-block mx-auto">
         <h1 class="font-weight-normal">Pricing to fit your entertainment needs</h1>
         <h2 class="h3 pb-5 font-weight-normal">Sign up today for to start your entertainment journey</h2>
