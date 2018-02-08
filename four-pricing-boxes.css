@@ -1,0 +1,87 @@
+.pricing-section .pricing-card {
+  display: flex;
+  flex-direction: column;
+}
+.pricing-container {
+    max-width: 1370px !important;
+    padding: 0 15px;
+}
+.pricing-section .pricing-card span.lead {
+  font-size: 1.8rem;
+  top: 4px;
+}
+.pricing-section .pricing-card.card-panel {
+  box-shadow: rgba(0,0,0,.1) 0 5px 40px, rgba(0,0,0,.1) 0 5px 10px;
+  padding: 44px;
+  margin: .5rem 0 1rem 0;
+  border-radius: 2px;
+  background-color: #fff;
+}
+.pricing-section .pricing-card.card-panel.pricing-card-pro {
+  margin-top: -1rem;
+}
+.pricing-section .pricing-card.pricing-card-pro {
+  margin-top: -2.75rem;
+}
+.pricing-section .pricing-card .icon img {
+  border-radius: 50%;
+  width: 100%;
+  max-width: 150px;
+}
+.pricing-section .pricing-card .price-month {
+  padding: 5px;
+  display: inline-block !important;
+}
+.pricing-section .pricing-card .btn {
+    text-transform: uppercase;
+    border-radius: 1.5rem;
+}
+.pricing-section .pricing-card-pro .btn {
+    padding:  1rem;
+}
+.pricing-section .pricing-card ul {
+  line-height: normal;
+  font-size: 1.125rem;
+}
+.pricing-section .pricing-card ul li {
+  padding: .65rem 0;
+  list-style-type: none !important;
+}
+.pricing-section .pricing-card .most-popular {
+  font-size: 25px;
+  font-weight: 500;
+}
+.pricing-section .pricing-title {
+  font-size: 1.38rem;
+  margin: 0.69rem 0 0.55rem;
+}
+@media (max-width: 576px) {
+  .pricing-section .pricing-card.card-panel {
+    min-height: auto;
+  }
+}
+@media (max-width: 768px) {
+    .pricing-section .pricing-card .icon img {
+        border-radius: 50%;
+        max-width: 250px;
+    }
+  .pricing-section .pricing-card.card-panel.pricing-card-pro {
+    margin-top: 12px;
+  }
+  .pricing-section .pricing-card.card-panel {
+    min-height: 550px;
+    padding: 10px 20px;
+  }
+}
+@media (max-width: 992px) {
+  .pricing-section .pricing-card.card-panel {
+    padding: 20px;
+  }
+  .pricing-section .pricing-card.card-panel.pricing-card-pro {
+    margin-top: 8px;
+  }
+  .pricing-section .pricing-card .btn {
+        max-width: 220px;
+        margin: 0 auto;
+    }
+}
