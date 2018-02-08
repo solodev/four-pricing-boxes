@@ -1,8 +1,8 @@
 # four-pricing-boxes
-Anyone with a website normally wants to keep people on the page as long as they possibly can with as few distractions as possible. However, there are moments when it’s necessary for a user to exit your page and visit a third-party organization linked through your website. Sometimes it’s to fill out forms. Maybe it’s to see a special offering from a partnering business or group. But regardless of where your user will end up, it’s important to tell them they won’t be on your website once they click that link.
+There’s a ton of information floating around about the ‘perfect landing page,’ but don’t forget about your website’s most important page -- the pricing page! Design can boost your pricing strategy by a few visual tricks and simple CSS. And while this tutorial isn’t a one-size-fits-all solution, it can definitely help boost your click through rate and (hopefully) your bottom line!
   		  
 ## Tutorial		  
-For detailed instruction's, view Solodev's [How to Make an External Link Popup Box](https://www.solodev.com/blog/web-design/how-to-make-an-external-link-popup-box.stml) article.
+For detailed instruction's, view Solodev's [How to Design Pricing Boxes that Get People to Click](https://www.solodev.com/blog/how-to-design-pricing-boxes-that-get-people-to-click-.stmll) article.
  
 ## Demo
   		  
