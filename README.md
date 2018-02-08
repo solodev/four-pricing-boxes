@@ -17,8 +17,6 @@ The tutorial contains the following basic HTML markup.
         <div class="pricing-container d-block mx-auto">
             <h1 class="font-weight-normal">Pricing to fit your entertainment needs</h1>
             <h2 class="h3 pb-5 font-weight-normal">Sign up today for to start your entertainment journey</h2>
-
-
             <div class="pricing-section mt-5">
                 <div class="row pricing-cards pricing-cards-monthly text-center">
                     <div class="col-md-6 col-lg-3">
@@ -26,18 +24,13 @@ The tutorial contains the following basic HTML markup.
                             <div class="icon">
                                 <i class="mx-auto d-block fas fa-trophy h1 bronze"></i>
                             </div>
-
                             <div class="text-center font-weight-bold pricing-title">Bronze</div>
-
                             <div class="price price-month text-center h3">$25
                                 <span class="text-bold">/month</span>
                             </div>
-
                             <div class="text-center price-month">
                                 <a class="btn btn-info d-block" href="https://www.solodev.com//free-trial/" title="Let’s Go">Let&rsquo;s Go</a>
                             </div>
-
-
                             <ul class="text-center p-0">
                                 <li>Live Television</li>
                                 <li>On-Demand Sporting Events</li>
@@ -50,19 +43,13 @@ The tutorial contains the following basic HTML markup.
                             <div class="icon">
                                 <i class="mx-auto d-block fas fa-trophy h1 silver"></i>
                             </div>
-
                             <div class="text-center font-weight-bold pricing-title">Silver</div>
-
                             <div class="price price-month text-center h3">$50
                                 <span class="text-bold">/month</span>
                             </div>
-
-
                             <div class="text-center price-month">
                                 <a class="btn btn-info d-block" href="https://www.solodev.com//free-trial/" title="Let’s Go">Let&rsquo;s Go</a>
                             </div>
-
-
                             <ul class="text-center p-0">
                                 <li class="text-primary">Everything in Bronze
                                     <span class="lead pos-r">+</span>
@@ -76,23 +63,16 @@ The tutorial contains the following basic HTML markup.
                     <div class="col-md-6 col-lg-3">
                         <div class="pricing-card pricing-card-pro pt-4 card-panel shadow">
                             <p class="text-center text-danger most-popular">&ndash; Most Popular &ndash;</p>
-
                             <div class="icon">
                                 <i class="mx-auto d-block fas fa-trophy h1 gold"></i>
                             </div>
-
                             <div class="text-center font-weight-bold pricing-title">Gold</div>
-
                             <div class="price price-month text-center h3">$75
                                 <span class="text-bold">/month</span>
                             </div>
-
-
                             <div class="text-center price-month">
                                 <a class="btn btn-info d-block btn-danger" href="https://www.solodev.com//free-trial/" title="Let’s Go">Let&rsquo;s Go</a>
                             </div>
-
-
                             <ul class="text-center p-0">
                                 <li class="text-danger">Everything in Silver
                                     <span class="lead pos-r">+</span>
@@ -109,19 +89,14 @@ The tutorial contains the following basic HTML markup.
                             <div class="icon">
                                 <i class="mx-auto d-block fas fa-trophy h1 platinum"></i>
                             </div>
-
                             <div class="text-center font-weight-bold pricing-title">Platinum</div>
 
                             <div class="price price-month text-center h3">$100
                                 <span class="text-bold">/month</span>
                             </div>
-
-
                             <div class="text-center price-month">
                                 <a class="btn btn-info d-block" href="https://www.solodev.com//free-trial/" title="Let’s Go">Let&rsquo;s Go</a>
                             </div>
-
-
                             <ul class="text-center p-0">
                                 <li class="text-primary">Everything in Gold
                                     <span class="lead pos-r">+</span>
