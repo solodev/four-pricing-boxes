@@ -152,6 +152,6 @@ This tutorial includes the following third party resources.
 <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css" rel="stylesheet">
 <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js"></script>
-https://use.fontawesome.com/releases/v5.0.6/js/all.js
+<script src="https://use.fontawesome.com/releases/v5.0.6/js/all.js"></script>
 ```
 
